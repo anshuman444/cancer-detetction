@@ -1,0 +1,9 @@
+streamlit
+tensorflow-cpu
+pandas
+Pillow
+numpy
+plotly
+streamlit-option-menu
+fpdf2
+opencv-python-headless
